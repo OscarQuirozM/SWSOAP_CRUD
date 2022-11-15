@@ -61,7 +61,7 @@ namespace WS_CRUD.Controlador
             }
             return productos;
         }
-
+        //Funcion para añadir productos y se alimenta la tabla Mantenimiento
         public List<EMantenimiento> ADD_productos(SqlConnection con, String codigo, String nombre, String descripcion, decimal precio)
         {
             List<EMantenimiento> lEMantenimiento = null;
