@@ -1,2 +1,1 @@
-Proyecto de Web Services
-ASP.NET C# - SOAP
+Este proyecto pequeño contiene las funciones elementales de un CRUD hecho por un WS_SOAP. Asimismo se anexa una BD, en formato (*.BAK) para ser restablecido desde el mismo gestor SQL STUDIO MANAGEMENT.
